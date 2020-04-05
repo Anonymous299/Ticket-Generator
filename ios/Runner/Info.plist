@@ -43,5 +43,7 @@
 	<false/>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>Screenshot of ticket with name saved to gallery</string>
+	<key>UIFileSharingEnabled</key>
+	<string>YES</string>
 </dict>
 </plist>
